@@ -16,16 +16,9 @@ As a digital architect, I'm sculpting the future with websites, apps, and AI inn
 ( ◉o◉)⊃━☆ AI/ML (but love Deep Learning more!)
 
 ---
-
-<img src="https://icons8.com/icon/wjmIz86BWbyf/linkedin-circled" alt="Alt Text">
-
-
-![image](https://github.com/aniketmdinde/aniketmdinde/assets/71129448/9f4e79f3-149e-4a1a-8eb3-3e4b258ef762)
+[![Alt Text](./icons8-linkedin.gif)](Your_Linkedin_Profile_URL)
 
 
-![image](https://github.com/aniketmdinde/aniketmdinde/assets/71129448/f92e772d-43df-4e6d-b310-5b2a22facff5)
-
-<img alt="" title="Connect with me on LinkedIn" src=""/>
 
 
 
