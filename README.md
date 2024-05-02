@@ -1,11 +1,9 @@
 # 😎 Aniket Dinde 😎
 
-
 **`CyberSentinel(Break security to provide security)`**
 
 As a digital architect, I'm sculpting the future with websites, apps, and AI innovations. With a hacker's savvy, I reinforce digital fortresses, ensuring cyberspace stays secure. But the thrill doesn't stop there – I'm also the mastermind behind immersive games, bringing dreams to life, pixel by pixel.
 
----
 
 ( ◉o◉)⊃━☆ Cybersecurity Ethusiast - a coverup for being a Hacker (¬_¬)
 
@@ -15,33 +13,25 @@ As a digital architect, I'm sculpting the future with websites, apps, and AI inn
 
 ( ◉o◉)⊃━☆ AI/ML (but love Deep Learning more!)
 
----
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
-
-<i class="ci ci-spotify ci-2x"></i>
+[![Connect with Me](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/aniket-dinde-091a20261/)
 
 
+Languages and Tools
+===
+![Programming Languages](https://skillicons.dev/icons?i=c,cs,cpp,js,py)
+
+![Frontend](https://skillicons.dev/icons?i=bootstrap,css,html,react,redux,tailwind)
+
+![Backend](https://skillicons.dev/icons?i=django,express,flask,mongodb,mysql,nodejs,postgres,postman)
+
+![OSandRelated](https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,powershell,bash)
+
+![PythonAndRelated](https://skillicons.dev/icons?i=opencv,pytorch,sklearn,tensorflow)
+
+![Others](https://skillicons.dev/icons?i=arduino,blender,git,github,godot,unity,unreal)
+
+Stats
+===
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketmdinde&show_icons=true&hide=stars,issues&theme=tokyonight)
 
 
-CyberOverlord 
-⋆༺𓆩☠︎︎𓆪༻⋆
-👾Hacker
-(◣ _ ◢)
-～(■_■)～ 
-<!--
-**aniketmdinde/aniketmdinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
