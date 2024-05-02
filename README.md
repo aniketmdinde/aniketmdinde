@@ -30,12 +30,9 @@ Languages and Tools
 
 ![Others](https://skillicons.dev/icons?i=arduino,blender,git,github,godot,unity,unreal)
 
-Stats
+Stats and Badges
 ===
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketmdinde&show_icons=true&hide=stars,issues&theme=tokyonight)
-
-
-<strong>Holopin badges</strong>
 
 [![@aniketmdinde](https://holopin.me/aniketmdinde)](https://holopin.io/@aniketmdinde)
 
