@@ -8,7 +8,7 @@ As a digital architect, I'm sculpting the future with websites, apps, and AI inn
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlwN25yZHl2MnVuNDc2cnI4YWYyOG9xeGowb3JybzRlZWFxenlmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mmgxbjsgIyl3wi1VxK/giphy.gif">
-  <p>Yup...!!!! That's nearly me</p>
+  <p>Yup...!!!! That's me</p>
 </p>
 
 <div align="center">
