@@ -35,3 +35,8 @@ Stats
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketmdinde&show_icons=true&hide=stars,issues&theme=tokyonight)
 
 
+<strong>Holopin badges</strong>
+
+[![@aniketmdinde](https://holopin.me/aniketmdinde)](https://holopin.io/@aniketmdinde)
+
+
