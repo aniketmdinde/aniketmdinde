@@ -46,6 +46,6 @@ Stats and Badges
 ===
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketmdinde&show_icons=true&hide=stars,issues&theme=tokyonight)
 
-[![@aniketmdinde](https://holopin.me/aniketmdinde)](https://holopin.io/@aniketmdinde)
+[![An image of @aniketmdinde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniketmdinde)](https://holopin.io/@aniketmdinde)
 
 </div>
