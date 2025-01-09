@@ -4,10 +4,8 @@
 
 **`Software Development | Artificial Intelligence | Cybersecurity`**
 
-As a digital architect, I'm create the future with web app and AI innovations. 
-
-With a tech savvy mindset, I also reinforce digital fortresses, ensuring cyberspace stays secure.
-
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i><br>
+~Steve Jobs
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlwN25yZHl2MnVuNDc2cnI4YWYyOG9xeGowb3JybzRlZWFxenlmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mmgxbjsgIyl3wi1VxK/giphy.gif">
@@ -18,10 +16,10 @@ With a tech savvy mindset, I also reinforce digital fortresses, ensuring cybersp
   <table width="50%" style="border-collapse: collapse; border: none;">
     <tr>
       <td align="left" style="padding: 10px;">
-        ( ◉o◉)⊃━☆ Cybersecurity Enthusiast - a coverup for being a Hacker (¬_¬)<br>
-        ( ◉o◉)⊃━☆ Web Development<br>
-        ( ◉o◉)⊃━☆ Game Development<br>
-        ( ◉o◉)⊃━☆ AI/ML (but love Deep Learning more!)
+        ( ◉o◉)⊃━☆ Tech Enthusiast<br>
+        ( ◉o◉)⊃━☆ Full Stack Developer<br>
+        ( ◉o◉)⊃━☆ Artificial Intelligence<br>
+        ( ◉o◉)⊃━☆ Cybersecurity<br>
       </td>
     </tr>
   </table>
