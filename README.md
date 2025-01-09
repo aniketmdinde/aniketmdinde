@@ -2,9 +2,12 @@
 
 # 😎 Aniket Dinde 😎
 
-**`CyberSentinel(Break security to provide security)`**
+**`Software Development | Artificial Intelligence | Cybersecurity`**
 
-As a digital architect, I'm sculpting the future with websites, apps, and AI innovations. With a hacker's savvy, I reinforce digital fortresses, ensuring cyberspace stays secure. But the thrill doesn't stop there – I'm also the mastermind behind immersive games, bringing dreams to life, pixel by pixel.
+As a digital architect, I'm create the future with web app and AI innovations. 
+
+With a tech savvy mindset, I also reinforce digital fortresses, ensuring cyberspace stays secure.
+
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlwN25yZHl2MnVuNDc2cnI4YWYyOG9xeGowb3JybzRlZWFxenlmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mmgxbjsgIyl3wi1VxK/giphy.gif">
@@ -40,7 +43,7 @@ Languages and Tools
 
 ![PythonAndRelated](https://skillicons.dev/icons?i=opencv,pytorch,sklearn,tensorflow)
 
-![Others](https://skillicons.dev/icons?i=arduino,blender,git,github,godot,unity,unreal)
+![Others](https://skillicons.dev/icons?i=arduino,blender,git,github)
 
 Stats and Badges
 ===
