@@ -34,12 +34,10 @@ Languages and Tools
 
 ![Frontend](https://skillicons.dev/icons?i=css,html,react,tailwind)
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,postgres,sqlite,redis)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi)
 
 ![Database](https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis)
 
-![OSandRelated](https://skillicons.dev/icons?i=linux,windows)
-
-![Others](https://skillicons.dev/icons?i=git,github)
+![OSandOthers](https://skillicons.dev/icons?i=linux,windows,git,github)
 
 </div>
