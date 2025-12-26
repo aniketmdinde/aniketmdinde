@@ -27,9 +27,6 @@
 
 [![Connect with Me](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/aniketmdinde/)
 
-
-Languages and Tools
-===
 ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,js,py)
 
 ![Frontend](https://skillicons.dev/icons?i=css,html,react,tailwind)
